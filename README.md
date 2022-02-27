@@ -11,7 +11,7 @@
 
 
 
-========================================== 2nd Exam =====================================
+=================== 2nd Exam ====================
 
 1. Swapping the Values Without Using Third Variable by using sum and differences concepts of maths.
 Input: 8, 9
